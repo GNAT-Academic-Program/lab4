@@ -1,0 +1,234 @@
+lab4.adb:1:09: warning: no entities of "Ada.Text_IO" are referenced [-gnatwu]
+lab4.adb:1:31: warning: use clause for package "Text_IO" has no effect [-gnatwu]
+lab4.adb:8:06: warning: no entities of "Bitmap_Color_Conversion" are referenced [-gnatwu]
+lab4.adb:8:31: warning: use clause for package "Bitmap_Color_Conversion" has no effect [-gnatwu]
+lab4.adb:11:05: (style) bad indentation
+lab4.adb:12:05: (style) bad indentation
+lab4.adb:13:05: (style) bad indentation
+lab4.adb:14:05: (style) bad indentation
+lab4.adb:16:05: (style) bad indentation
+lab4.adb:17:05: (style) bad indentation
+lab4.adb:18:05: (style) bad indentation
+lab4.adb:19:05: (style) bad indentation
+lab4.adb:21:05: (style) bad indentation
+lab4.adb:22:05: (style) bad indentation
+lab4.adb:23:05: (style) bad indentation
+lab4.adb:24:05: (style) bad indentation
+lab4.adb:26:05: (style) bad indentation
+lab4.adb:27:05: (style) bad indentation
+lab4.adb:28:05: (style) bad indentation
+lab4.adb:29:05: (style) bad indentation
+lab4.adb:31:05: (style) bad indentation
+lab4.adb:32:05: (style) bad indentation
+lab4.adb:32:05: warning: "Row_Pins" is not modified, could be declared constant [-gnatwk]
+lab4.adb:34:05: (style) bad indentation
+lab4.adb:35:05: (style) bad indentation
+lab4.adb:35:05: warning: variable "Output_String" is not referenced [-gnatwu]
+lab4.adb:36:05: (style) bad indentation
+lab4.adb:36:05: warning: variable "Output_Length" is not referenced [-gnatwu]
+lab4.adb:37:05: (style) bad indentation
+lab4.adb:39:05: (style) bad indentation
+lab4.adb:39:05: warning: variable "state" is not referenced [-gnatwu]
+lab4.adb:41:05: (style) bad indentation
+lab4.adb:42:05: (style) bad indentation
+lab4.adb:45:05: (style) bad indentation
+lab4.adb:46:05: (style) bad indentation
+lab4.adb:47:05: (style) bad indentation
+lab4.adb:47:05: warning: "LEDs" is not modified, could be declared constant [-gnatwk]
+lab4.adb:49:05: (style) bad indentation
+lab4.adb:50:05: (style) bad indentation
+lab4.adb:51:09: (style) bad indentation
+lab4.adb:53:09: (style) bad indentation
+lab4.adb:57:05: (style) bad indentation
+lab4.adb:60:05: (style) bad indentation
+lab4.adb:60:05: warning: "System_Armed" is not modified, could be declared constant [-gnatwk]
+lab4.adb:63:05: (style) bad indentation
+lab4.adb:64:05: (style) bad indentation
+lab4.adb:65:09: (style) bad indentation
+lab4.adb:68:09: (style) bad indentation
+lab4.adb:71:09: (style) bad indentation
+lab4.adb:72:05: (style) bad indentation
+lab4.adb:74:05: (style) bad indentation
+lab4.adb:75:05: (style) bad indentation
+lab4.adb:76:09: (style) bad indentation
+lab4.adb:77:09: (style) bad indentation
+lab4.adb:78:05: (style) bad indentation
+lab4.adb:80:05: (style) bad indentation
+lab4.adb:81:05: (style) bad indentation
+lab4.adb:82:09: (style) bad indentation
+lab4.adb:83:09: (style) bad indentation
+lab4.adb:87:05: (style) bad indentation
+lab4.adb:89:05: (style) bad indentation
+lab4.adb:90:09: (style) bad indentation
+lab4.adb:91:09: (style) bad indentation
+lab4.adb:92:05: (style) bad indentation
+lab4.adb:93:09: (style) bad indentation
+lab4.adb:94:09: (style) bad indentation
+lab4.adb:96:09: (style) bad indentation
+lab4.adb:100:09: (style) bad indentation
+lab4.adb:101:05: (style) bad indentation
+lab4.adb:103:05: (style) bad indentation
+lab4.adb:104:05: (style) bad indentation
+lab4.adb:105:09: (style) bad indentation
+lab4.adb:110:17: (style) bad indentation
+lab4.adb:112:17: (style) bad indentation
+lab4.adb:115:09: (style) bad indentation
+lab4.adb:116:05: (style) bad indentation
+lab4.adb:118:05: (style) bad indentation
+lab4.adb:119:05: (style) bad indentation
+lab4.adb:120:05: (style) bad indentation
+lab4.adb:121:05: (style) bad indentation
+lab4.adb:122:05: (style) bad indentation
+lab4.adb:123:05: (style) bad indentation
+lab4.adb:124:05: (style) bad indentation
+lab4.adb:125:05: (style) bad indentation
+lab4.adb:126:05: (style) bad indentation
+lab4.adb:127:05: (style) bad indentation
+lab4.adb:128:05: (style) bad indentation
+lab4.adb:129:05: (style) bad indentation
+lab4.adb:130:05: (style) bad indentation
+lab4.adb:131:05: (style) bad indentation
+lab4.adb:132:05: (style) bad indentation
+lab4.adb:133:05: (style) bad indentation
+lab4.adb:134:09: (style) bad indentation
+lab4.adb:137:17: (style) bad indentation
+lab4.adb:138:21: (style) bad indentation
+lab4.adb:139:42: (style) "and then" required
+lab4.adb:140:29: (style) bad indentation
+lab4.adb:141:33: (style) bad indentation
+lab4.adb:142:33: (style) bad indentation
+lab4.adb:143:33: (style) bad indentation
+lab4.adb:145:33: (style) bad indentation
+lab4.adb:146:29: (style) bad indentation
+lab4.adb:148:42: (style) "and then" required
+lab4.adb:149:29: (style) bad indentation
+lab4.adb:150:33: (style) bad indentation
+lab4.adb:151:33: (style) bad indentation
+lab4.adb:152:33: (style) bad indentation
+lab4.adb:154:33: (style) bad indentation
+lab4.adb:155:29: (style) bad indentation
+lab4.adb:157:42: (style) "and then" required
+lab4.adb:158:29: (style) bad indentation
+lab4.adb:159:33: (style) bad indentation
+lab4.adb:160:33: (style) bad indentation
+lab4.adb:161:33: (style) bad indentation
+lab4.adb:163:33: (style) bad indentation
+lab4.adb:164:29: (style) bad indentation
+lab4.adb:166:42: (style) "and then" required
+lab4.adb:167:29: (style) bad indentation
+lab4.adb:168:33: (style) bad indentation
+lab4.adb:169:33: (style) bad indentation
+lab4.adb:170:33: (style) bad indentation
+lab4.adb:172:33: (style) bad indentation
+lab4.adb:173:29: (style) bad indentation
+lab4.adb:176:21: (style) bad indentation
+lab4.adb:179:21: (style) bad indentation
+lab4.adb:180:42: (style) "and then" required
+lab4.adb:181:29: (style) bad indentation
+lab4.adb:182:33: (style) bad indentation
+lab4.adb:183:33: (style) bad indentation
+lab4.adb:184:33: (style) bad indentation
+lab4.adb:186:33: (style) bad indentation
+lab4.adb:187:29: (style) bad indentation
+lab4.adb:189:42: (style) "and then" required
+lab4.adb:190:29: (style) bad indentation
+lab4.adb:191:33: (style) bad indentation
+lab4.adb:192:33: (style) bad indentation
+lab4.adb:193:33: (style) bad indentation
+lab4.adb:195:33: (style) bad indentation
+lab4.adb:196:29: (style) bad indentation
+lab4.adb:198:42: (style) "and then" required
+lab4.adb:199:29: (style) bad indentation
+lab4.adb:200:33: (style) bad indentation
+lab4.adb:201:33: (style) bad indentation
+lab4.adb:202:33: (style) bad indentation
+lab4.adb:204:33: (style) bad indentation
+lab4.adb:205:29: (style) bad indentation
+lab4.adb:207:42: (style) "and then" required
+lab4.adb:208:29: (style) bad indentation
+lab4.adb:209:33: (style) bad indentation
+lab4.adb:210:33: (style) bad indentation
+lab4.adb:211:33: (style) bad indentation
+lab4.adb:213:33: (style) bad indentation
+lab4.adb:214:29: (style) bad indentation
+lab4.adb:217:21: (style) bad indentation
+lab4.adb:220:21: (style) bad indentation
+lab4.adb:221:42: (style) "and then" required
+lab4.adb:222:29: (style) bad indentation
+lab4.adb:223:33: (style) bad indentation
+lab4.adb:224:33: (style) bad indentation
+lab4.adb:225:33: (style) bad indentation
+lab4.adb:227:33: (style) bad indentation
+lab4.adb:228:29: (style) bad indentation
+lab4.adb:230:42: (style) "and then" required
+lab4.adb:231:29: (style) bad indentation
+lab4.adb:232:33: (style) bad indentation
+lab4.adb:233:33: (style) bad indentation
+lab4.adb:234:33: (style) bad indentation
+lab4.adb:236:33: (style) bad indentation
+lab4.adb:237:29: (style) bad indentation
+lab4.adb:239:42: (style) "and then" required
+lab4.adb:240:29: (style) bad indentation
+lab4.adb:241:33: (style) bad indentation
+lab4.adb:242:33: (style) bad indentation
+lab4.adb:243:33: (style) bad indentation
+lab4.adb:245:33: (style) bad indentation
+lab4.adb:246:29: (style) bad indentation
+lab4.adb:248:42: (style) "and then" required
+lab4.adb:249:29: (style) bad indentation
+lab4.adb:250:33: (style) bad indentation
+lab4.adb:251:33: (style) bad indentation
+lab4.adb:252:33: (style) bad indentation
+lab4.adb:254:33: (style) bad indentation
+lab4.adb:255:29: (style) bad indentation
+lab4.adb:258:21: (style) bad indentation
+lab4.adb:261:21: (style) bad indentation
+lab4.adb:262:42: (style) "and then" required
+lab4.adb:263:29: (style) bad indentation
+lab4.adb:264:33: (style) bad indentation
+lab4.adb:265:33: (style) bad indentation
+lab4.adb:266:33: (style) bad indentation
+lab4.adb:268:33: (style) bad indentation
+lab4.adb:269:29: (style) bad indentation
+lab4.adb:271:42: (style) "and then" required
+lab4.adb:272:29: (style) bad indentation
+lab4.adb:273:33: (style) bad indentation
+lab4.adb:274:33: (style) bad indentation
+lab4.adb:275:33: (style) bad indentation
+lab4.adb:277:33: (style) bad indentation
+lab4.adb:278:29: (style) bad indentation
+lab4.adb:280:42: (style) "and then" required
+lab4.adb:281:29: (style) bad indentation
+lab4.adb:282:33: (style) bad indentation
+lab4.adb:283:33: (style) bad indentation
+lab4.adb:284:33: (style) bad indentation
+lab4.adb:286:33: (style) bad indentation
+lab4.adb:287:29: (style) bad indentation
+lab4.adb:289:42: (style) "and then" required
+lab4.adb:290:29: (style) bad indentation
+lab4.adb:291:33: (style) bad indentation
+lab4.adb:292:33: (style) bad indentation
+lab4.adb:293:33: (style) bad indentation
+lab4.adb:295:33: (style) bad indentation
+lab4.adb:296:29: (style) bad indentation
+lab4.adb:299:21: (style) bad indentation
+lab4.adb:302:21: (style) bad indentation
+lab4.adb:304:60: (style) trailing spaces not permitted
+lab4.adb:305:67: (style) trailing spaces not permitted
+lab4.adb:306:21: (style) bad indentation
+lab4.adb:307:17: (style) bad indentation
+lab4.adb:308:17: (style) bad indentation
+lab4.adb:309:17: (style) bad indentation
+lab4.adb:310:17: (style) bad indentation
+lab4.adb:311:17: (style) bad indentation
+lab4.adb:312:17: (style) bad indentation
+lab4.adb:315:09: (style) bad indentation
+lab4.adb:317:09: (style) bad indentation
+lab4.adb:318:09: (style) bad indentation
+lab4.adb:319:09: (style) bad indentation
+lab4.adb:320:09: (style) bad indentation
+lab4.adb:322:09: (style) bad indentation
+lab4.adb:323:09: (style) bad indentation
+lab4.adb:324:09: (style) bad indentation
+lab4.adb:325:09: (style) bad indentation
+lab4.adb:327:05: (style) bad indentation

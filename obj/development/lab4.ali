@@ -1,0 +1,360 @@
+V "GNAT Lib v12"
+M P W=b
+A -Og
+A -gnatA
+A --RTS=/home/sabermaster/.config/alire/cache/dependencies/gnat_arm_elf_12.2.1_9be2ca0e/arm-eabi/lib/gnat/embedded-stm32f429disco/
+A -mlittle-endian
+A -mfloat-abi=hard
+A -mcpu=cortex-m4
+A -mfpu=fpv4-sp-d16
+A -mthumb
+A -ffunction-sections
+A -fdata-sections
+A -g
+A -gnatwa
+A -gnatw.X
+A -gnatVa
+A -gnaty3
+A -gnatya
+A -gnatyA
+A -gnatyB
+A -gnatyb
+A -gnatyc
+A -gnaty-
+A -gnatyd
+A -gnatye
+A -gnatyf
+A -gnatyh
+A -gnatyi
+A -gnatyI
+A -gnatyk
+A -gnatyl
+A -gnatym
+A -gnatyn
+A -gnatyO
+A -gnatyp
+A -gnatyr
+A -gnatyS
+A -gnatyt
+A -gnatyu
+A -gnatyx
+A -mlibarch=armv7e-m+fp
+A -march=armv7e-m+fp
+P DB LC TF  SS ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_DISPATCHING_CALLS
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_IMPLICIT_LOOPS
+
+U lab4%b		lab4.adb		452fa616 NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W bitmap_color_conversion%s  bitmap_color_conversion.adb  bitmap_color_conversion.ali
+W bitmapped_drawing%s	bitmapped_drawing.adb	bitmapped_drawing.ali
+W bmp_fonts%s		bmp_fonts.adb		bmp_fonts.ali
+W hal%s			hal.ads			hal.ali
+W hal.bitmap%s		hal-bitmap.ads		hal-bitmap.ali
+W stm32%s		stm32.ads		stm32.ali
+W stm32.board%s		stm32-board.adb		stm32-board.ali
+W stm32.device%s	stm32-device.adb	stm32-device.ali
+W stm32.gpio%s		stm32-gpio.adb		stm32-gpio.ali
+
+D ada.ads		20220929111741 76789da1 ada%s
+D a-except.ads		20220929111741 2a7d8d70 ada.exceptions%s
+D a-finali.ads		20220929111741 bf4f806b ada.finalization%s
+D a-interr.ads		20220929111741 bdf68b51 ada.interrupts%s
+D a-intnam.ads		20220929111741 d93e10ac ada.interrupts.names%s
+D a-reatim.ads		20220929111741 cfe92427 ada.real_time%s
+D a-stream.ads		20220929111741 119b8fb3 ada.streams%s
+D a-string.ads		20220929111741 90ac6797 ada.strings%s
+D a-sttebu.ads		20220929111741 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20220929111741 33c54060 ada.strings.utf_encoding%s
+D a-tags.ads		20220929111741 9eaa38c6 ada.tags%s
+D a-taside.ads		20220929111741 c0a7c8d8 ada.task_identification%s
+D a-textio.ads		20220929111741 ffc84532 ada.text_io%s
+D a-unccon.ads		20220929111741 0e9b276f ada.unchecked_conversion%s
+D bitmap_color_conversion.ads  20240410163400 7ec7e967 bitmap_color_conversion%s
+D bitmapped_drawing.ads	20240410163403 5d86af19 bitmapped_drawing%s
+D bmp_fonts.ads		20240410163403 593c0a39 bmp_fonts%s
+D framebuffer_ili9341.ads  20240410163404 71d6dd2d framebuffer_ili9341%s
+D framebuffer_ltdc.ads	20240410163404 78cac1e3 framebuffer_ltdc%s
+D hal.ads		20240410163359 2b42c80e hal%s
+D hal-audio.ads		20240410163359 e7f91665 hal.audio%s
+D hal-bitmap.ads	20240410163359 12976478 hal.bitmap%s
+D hal-framebuffer.ads	20240410163359 38f7bff6 hal.framebuffer%s
+D hal-gpio.ads		20240410163359 c8195dfd hal.gpio%s
+D hal-i2c.ads		20240410163359 bbe3f8eb hal.i2c%s
+D hal-real_time_clock.ads  20240410163359 d33ce008 hal.real_time_clock%s
+D hal-spi.ads		20240410163359 23ccf813 hal.spi%s
+D hal-time.ads		20240410163359 c82c1ca8 hal.time%s
+D hal-touch_panel.ads	20240410163359 a00b066b hal.touch_panel%s
+D hal-uart.ads		20240410163359 f6856013 hal.uart%s
+D hershey_fonts.ads	20240410163403 f42bbcd7 hershey_fonts%s
+D ili9341.ads		20240410163401 936ed160 ili9341%s
+D interfac.ads		20220929111741 edec285f interfaces%s
+D i-stm32.ads		20220929111741 2ad0960b interfaces.stm32%s
+D i-stm32-pwr.ads	20220929111741 4a098e84 interfaces.stm32.pwr%s
+D l3gd20.ads		20240410163401 ca110b0d l3gd20%s
+D lab4.adb		20240411021252 e9ea8521 lab4%b
+D memory_mapped_bitmap.ads  20240410163400 b0310810 memory_mapped_bitmap%s
+D ravenscar_time.ads	20240410163404 7a23edc6 ravenscar_time%s
+D soft_drawing_bitmap.ads  20240410163400 e11f4ff7 soft_drawing_bitmap%s
+D stm32.ads		20240410163402 698e2c3b stm32%s
+D stm32-adc.ads		20240410163402 fbfd6f57 stm32.adc%s
+D stm32-board.ads	20240410163404 2b7277a3 stm32.board%s
+D stm32-crc.ads		20240410163402 9ef7b3c1 stm32.crc%s
+D stm32-dac.ads		20240410163402 bbc963b4 stm32.dac%s
+D stm32-device.ads	20240410163402 21fa9a22 stm32.device%s
+D stm32-dma.ads		20240410163402 a485c5f7 stm32.dma%s
+D stm32-dma-interrupts.ads  20240410163402 0810c00a stm32.dma.interrupts%s
+D stm32-dma2d.ads	20240410163402 cec1550a stm32.dma2d%s
+D stm32-dma2d_bitmap.ads  20240410163404 e71d75df stm32.dma2d_bitmap%s
+D stm32-exti.ads	20240410163402 27a7d05f stm32.exti%s
+D stm32-fmc.ads		20240410163402 cbc3a468 stm32.fmc%s
+D stm32-gpio.ads	20240410163402 316fa3bb stm32.gpio%s
+D stm32-i2c.ads		20240410163402 2a3b9b70 stm32.i2c%s
+D stm32-i2c-dma.ads	20240410163402 75d445d8 stm32.i2c.dma%s
+D stm32-i2s.ads		20240410163402 8099fbc7 stm32.i2s%s
+D stm32-ltdc.ads	20240410163402 679ad904 stm32.ltdc%s
+D stm32-rtc.ads		20240410163402 ff58a3e8 stm32.rtc%s
+D stm32-spi.ads		20240410163402 98127252 stm32.spi%s
+D stm32-spi-dma.ads	20240410163402 030a0921 stm32.spi.dma%s
+D stm32-timers.ads	20240410163402 63c500b2 stm32.timers%s
+D stm32-usarts.ads	20240410163402 c32302c7 stm32.usarts%s
+D stm32_svd.ads		20240410163402 89b9f11a stm32_svd%s
+D stm32_svd-adc.ads	20240410163402 0c4598f6 stm32_svd.adc%s
+D stm32_svd-crc.ads	20240410163402 f8fb8ec8 stm32_svd.crc%s
+D stm32_svd-dac.ads	20240410163402 7ce3d16d stm32_svd.dac%s
+D stm32_svd-dma.ads	20240410163402 cbdaf790 stm32_svd.dma%s
+D stm32_svd-gpio.ads	20240410163402 05f2a6bd stm32_svd.gpio%s
+D stm32_svd-i2c.ads	20240410163402 b6aa1d20 stm32_svd.i2c%s
+D stm32_svd-sdio.ads	20240410163402 586e3cc2 stm32_svd.sdio%s
+D stm32_svd-spi.ads	20240410163402 694b2c33 stm32_svd.spi%s
+D stm32_svd-usart.ads	20240410163402 d9126171 stm32_svd.usart%s
+D stmpe811.ads		20240410163401 1eb180eb stmpe811%s
+D system.ads		20220929111741 5ad4ef55 system%s
+D s-bb.ads		20220929111741 09e072ae system.bb%s
+D s-bbbopa.ads		20220929111741 5e9af419 system.bb.board_parameters%s
+D s-bbbosu.ads		20220929111741 0f820a2a system.bb.board_support%s
+D s-bbcppr.ads		20220929111741 c529bbcc system.bb.cpu_primitives%s
+D s-bbinte.ads		20220929111741 cf617f22 system.bb.interrupts%s
+D s-bbmcpa.ads		20220929111741 b5961a30 system.bb.mcu_parameters%s
+D s-bbpara.ads		20220929111741 f29639f9 system.bb.parameters%s
+D s-bbthre.ads		20220929111741 5f49caa9 system.bb.threads%s
+D s-bbthqu.ads		20220929111741 cd23d79e system.bb.threads.queues%s
+D s-bbtime.ads		20220929111741 ad086247 system.bb.time%s
+D s-fatflt.ads		20220929111741 11beb392 system.fat_flt%s
+D s-fatgen.ads		20220929111741 d28c6cfe system.fat_gen%s
+D s-finmas.ads		20220929111741 bd688734 system.finalization_masters%s
+D s-finroo.ads		20220929111741 4ff27390 system.finalization_root%s
+D s-interr.ads		20220929111741 d74bd991 system.interrupts%s
+D s-multip.ads		20220929111741 f33e0e35 system.multiprocessors%s
+D s-mufalo.ads		20220929111741 3dca0374 system.multiprocessors.fair_locks%s
+D s-musplo.ads		20220929111741 69fa25c4 system.multiprocessors.spin_locks%s
+D s-osinte.ads		20220929111741 229b14dd system.os_interface%s
+D s-parame.ads		20220929111741 8e90778f system.parameters%s
+D s-pooglo.ads		20220929111741 91708d21 system.pool_global%s
+D s-putima.ads		20220929111741 4e095881 system.put_images%s
+D s-secsta.ads		20220929111741 56a2861c system.secondary_stack%s
+D s-stalib.ads		20220929111741 1c9580f6 system.standard_library%s
+D s-stm32.ads		20220929111741 ea0d68d9 system.stm32%s
+D s-stoele.ads		20220929111741 6d8e1ff4 system.storage_elements%s
+D s-stoele.adb		20220929111741 8f5a9db6 system.storage_elements%b
+D s-stopoo.ads		20220929111741 e9fa2dd8 system.storage_pools%s
+D s-stratt.ads		20220929111741 f7dfd786 system.stream_attributes%s
+D s-tasinf.ads		20220929111741 801abd01 system.task_info%s
+D s-taspri.ads		20220929111741 37f162b4 system.task_primitives%s
+D s-taskin.ads		20220929111741 989d56fd system.tasking%s
+D s-taprob.ads		20220929111741 c8fc0753 system.tasking.protected_objects%s
+D s-tpoben.ads		20220929111741 8351b91e system.tasking.protected_objects.entries%s
+D s-traent.ads		20220929111741 c81cbf8c system.traceback_entries%s
+D s-unstyp.ads		20220929111741 fa2a7f59 system.unsigned_types%s
+D touch_panel_stmpe811.ads  20240410163404 aefcd99e touch_panel_stmpe811%s
+D unchconv.ads		20220929111741 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z b b [lab4 standard 10 11 none]
+G r s gpio_points [lab4 standard 10 11 none] [gpio_pointsIP stm32__gpio 233 9 none]
+G r c none [lab4 standard 10 11 none] [enable_clock stm32__device 74 14 none]
+G r c none [lab4 standard 10 11 none] [configure_io stm32__gpio 268 14 none]
+G r c none [lab4 standard 10 11 none] [enable_clock stm32__device 72 14 none]
+G r c none [lab4 standard 10 11 none] [configure_io stm32__gpio 207 14 none]
+G r c none [lab4 standard 10 11 none] [set stm32__gpio 176 14 none]
+G r c none [lab4 standard 10 11 none] [initialize framebuffer_ili9341 46 14 none]
+G r c none [lab4 standard 10 11 none] [initialize_layer framebuffer_ltdc 93 25 none]
+G r c none [lab4 standard 10 11 none] [clear stm32__gpio 182 14 none]
+G r c none [lab4 standard 10 11 none] [set stm32__gpio 169 13 none]
+G r c none [lab4 standard 10 11 none] [hidden_buffer framebuffer_ltdc 146 24 none]
+G r c none [lab4 standard 10 11 none] [draw_string bitmapped_drawing 50 14 none]
+G r c none [lab4 standard 10 11 none] [update_layer framebuffer_ltdc 118 25 none]
+X 1 ada.ads
+16K9*Ada 20e8 37|1r6 1r35
+X 13 a-textio.ads
+36K13*Text_IO 52e16 37|1w10 1r39
+X 15 bitmap_color_conversion.ads
+35K9*Bitmap_Color_Conversion 47e28 37|8w6 8r35
+X 16 bitmapped_drawing.ads
+40K9*Bitmapped_Drawing 78e22 37|7w6 96r9
+50U14*Draw_String 37|96s27
+52r7 Start{22|68R9} 37|97r44
+53a7 Msg{string} 37|97r61
+54e7 Font{17|46E9} 37|98r13
+55r7 Foreground{22|87R9} 37|98r42
+56r7 Background{22|87R9} 37|98r60
+X 17 bmp_fonts.ads
+44K9*BMP_Fonts 74e14 37|6w6 98r21
+46n42*Font16x24{46E9} 37|98r31
+X 18 framebuffer_ili9341.ads
+46U14*Initialize 37|131s13
+X 19 framebuffer_ltdc.ads
+93U25*Initialize_Layer<23|84p14> 37|132s13
+118U25*Update_Layer<23|101p14> 37|100s17
+121b7 Copy_Back{boolean} 37|100r34
+146V24*Hidden_Buffer{22|103P9}<23|117p13> 37|93s17 94s17 97s21
+X 20 hal.ads
+34K9*HAL 166e8 37|5r6 5r35
+53M9*UInt8<33|68M9>
+X 21 hal-audio.ads
+62h9*Audio_Stream
+X 22 hal-bitmap.ads
+34K13*Bitmap 433e15 37|5w10 5r39
+45n7*ARGB_8888{44E9} 37|132r34
+87R9*Bitmap_Color 92e15 37|90r23 91r23
+88m7*Alpha{20|53M9} 37|90m40 91m40
+101h9*Bitmap_Buffer
+103P9*Any_Bitmap_Buffer(101R9)
+143x14*Set_Source 37|93R35
+203x14*Fill 37|94R35
+X 23 hal-framebuffer.ads
+45h9*Frame_Buffer_Display
+X 24 hal-gpio.ads
+48h9*GPIO_Point
+X 25 hal-i2c.ads
+49h9*I2C_Port
+X 26 hal-real_time_clock.ads
+80h9*RTC_Device
+X 27 hal-spi.ads
+49h9*SPI_Port
+X 28 hal-time.ads
+35h9*Delays
+X 29 hal-touch_panel.ads
+53h9*Touch_Panel_Device
+X 30 hal-uart.ads
+49h9*UART_Port
+X 33 interfac.ads
+68M9*Unsigned_8
+X 37 lab4.adb
+10U11*Lab4 10b11 382l5 382t9
+11r5 Col1{53|138R9} 31r49 123m30 123r30 127m10 127r10 322m14 322r14
+12r5 Col2{53|138R9} 31r55 124m30 124r30 128m10 128r10 323m14 323r14
+13r5 Col3{53|138R9} 31r61 125m30 125r30 129m10 129r10 324m14 324r14
+14r5 Col4{53|138R9} 31r67 126m30 126r30 130m10 130r10 325m14 325r14
+16b5 Row1_state{boolean} 140r36 145m33 181r36 186m33 222r36 227m33 263r36
+. 268m33 308m17
+17b5 Row2_state{boolean} 149r36 154m33 190r36 195m33 231r36 236m33 272r36
+. 277m33 309m17
+18b5 Row3_state{boolean} 158r36 163m33 199r36 204m33 240r36 245m33 281r36
+. 286m33 310m17
+19b5 Row4_state{boolean} 167r36 172m33 208r36 213m33 249r36 254m33 290r36
+. 295m33 311m17
+21b5 Col1_state{boolean} 138r28 175m25 317m9
+22b5 Col2_state{boolean} 179r28 216m25 318m9
+23b5 Col3_state{boolean} 220r28 257m25 319m9
+24b5 Col4_state{boolean} 261r28 298m25 320m9
+26r5 Row1{53|138R9} 32r49 119m29 119r29
+27r5 Row2{53|138R9} 32r55 120m29 120r29
+28r5 Row3{53|138R9} 32r61 121m29 121r29
+29r5 Row4{53|138R9} 32r67 122m29 122r29
+31a5 Col_Pins(53|138R9) 134r26 135m19 135r19
+32a5 Row_Pins(53|138R9) 136r30 137r29
+34a5 Input_String{string} 142m33 144r37 151m33 153r37 160m33 162r37 169m33
+. 171r37 183m33 185r37 192m33 194r37 201m33 203r37 210m33 212r37 224m33 226r37
+. 233m33 235r37 242m33 244r37 251m33 253r37 265m33 267r37 274m33 276r37 283m33
+. 285r37 292m33 294r37 302r39 304m25
+35a5 Output_String{string}
+36i5 Output_Length{natural}
+37i5 Input_Length{natural} 105r12 141m33 141r49 142r47 144r56 150m33 150r49
+. 151r47 153r56 159m33 159r49 160r47 162r56 168m33 168r49 169r47 171r56 182m33
+. 182r49 183r47 185r56 191m33 191r49 192r47 194r56 200m33 200r49 201r47 203r56
+. 209m33 209r49 210r47 212r56 223m33 223r49 224r47 226r56 232m33 232r49 233r47
+. 235r56 241m33 241r49 242r47 244r56 250m33 250r49 251r47 253r56 264m33 264r49
+. 265r47 267r56 273m33 273r49 274r47 276r56 282m33 282r49 283r47 285r56 291m33
+. 291r49 292r47 294r56 302r24 303m25 303r56 304r39 305r45
+39b5 state{boolean}
+41U15 High=41:66 135s13
+41r21 This{53|138R9}
+42U15 Low=42:65 127s5 128s5 129s5 130s5 322s9 323s9 324s9 325s9
+42r20 This{53|138R9}
+45r5 Armed_LED=45:37{53|138R9} 47r50 67r20 69r18
+46r5 Disarmed_LED=46:37{53|138R9} 47r35 66r18 70r20
+47a5 LEDs=47:48{53|233A9} 51r23 54r13
+49U15 Init_LEDs 49b15 57l9 57t18 118s5
+60b5 System_Armed{boolean} 65r12 109r16
+63U15 Update_LED_Status 63b15 72l9 72t26 107s13
+74U15 Configure_Analog_Input 74b15 74=39 78l9 78t31 119s5 120s5 121s5 122s5
+74r39 This{53|138R9} 76r23 77r23
+80U15 Configure_Analog_Output 80b15 80=40 87l9 87t32 123s5 124s5 125s5 126s5
+80r40 This{53|138R9} 82r23 84r13
+89U15 Print_To_LCD 89b15 89>29 101l9 101t21 110s17 112s17 143s33 152s33 161s33
+. 170s33 184s33 193s33 202s33 211s33 225s33 234s33 243s33 252s33 266s33 275s33
+. 284s33 293s33 305s25
+89a29 Str{string} 97r68
+90r9 BG{22|87R9} 93r47 98r74
+91r9 FG{22|87R9} 98r56
+103U15 Process_Input 103b15 116l9 116t22 312s17
+134i13 Col_Index{integer} 135r29 139r28 148r28 157r28 166r28 180r28 189r28
+. 198r28 207r28 221r28 230r28 239r28 248r28 262r28 271r28 280r28 289r28
+136i17 Row_Index{integer} 137r39 139r46 148r46 157r46 166r46 180r46 189r46
+. 198r46 207r46 221r46 230r46 239r46 248r46 262r46 271r46 280r46 289r46
+X 41 stm32.ads
+39K9*STM32 37|2r6 2r35 3r6 3r35 4r6 4r35 41r55 42r54 41|48e10
+X 43 stm32-board.ads
+59K15*Board 37|3w12 3r41 43|226e16
+67R12*User_LED{53|138R9} 37|45r20 46r20
+189r4*Display{18|43R9} 37|93m9 93r9 94m9 94r9 97m13 97r13 100m9 100r9 131m5
+. 131r5 132m5 132r5
+X 46 stm32-device.ads
+63K15*Device 37|4w12 4r41 46|654e17
+72U14*Enable_Clock 37|76s9 82s9
+74U14*Enable_Clock 37|51s9
+115r4*PA8{53|138R9} 37|27r26
+116r4*PA9{53|138R9} 37|29r26
+147r4*PC8{53|138R9} 37|26r26
+148r4*PC9{53|138R9} 37|11r26
+175r4*PE4{53|138R9} 37|12r26
+176r4*PE5{53|138R9} 37|13r26
+177r4*PE6{53|138R9} 37|14r26
+212r4*PG9{53|138R9} 37|28r26
+216r4*PG13{53|138R9} 37|45m37 45r37
+217r4*PG14{53|138R9} 37|46m37 46r37
+X 53 stm32-gpio.ads
+49K15*GPIO 37|2w12 2r41 41r61 42r60 53|297e15
+87n26*Mode_In{87E9} 37|77r38
+87n35*Mode_Out{87E9} 37|55r22 85r22
+96n30*Push_Pull{96E9} 37|55r47 85r47
+101n70*Speed_100MHz{101E9} 37|55r67 85r67
+115n36*Floating{115E9} 37|56r27 77r60 86r27
+123e34*Mode{87E9} 37|55m14 77m30 85m14
+124e7*Resistors{115E9} 37|56m14 77m47 86m14
+129e13*Output_Type{96E9} 37|55m32 85m32
+130e13*Speed{101E9} 37|55m58 85m58
+138R9*GPIO_Point<24|48R9> 37|11r12 12r12 13r12 14r12 26r12 27r12 28r12 29r12
+. 31r34 32r34 41r35 42r34 74r53 80r54 53|143e14
+169V13*Set{boolean}<24|77p13> 37|137s24
+176U14*Set<24|89p14> 37|42r65 66s13 69s13
+182U14*Clear<24|91p14> 37|41r66 67s13 70s13
+207U14*Configure_IO 37|77s9 83s9
+233A9*GPIO_Points(138R9)<integer> 37|47r20
+268U14*Configure_IO 37|53s9
+X 89 s-interr.ads
+97U14*Install_Restricted_Handlers_Sequential 98i<c,__gnat_attach_all_handlers>22
+X 97 s-secsta.ads
+46P9*SS_Stack_Ptr(43R9)
+X 106 s-taskin.ads
+398V13*Get_Sec_Stack{97|46P9} 399i<c,__gnat_get_secondary_stack>22
+
