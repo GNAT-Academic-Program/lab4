@@ -27,6 +27,8 @@ package ada_main is
 
    --  BEGIN ELABORATION ORDER
    --  ada%s
+   --  ada.characters%s
+   --  ada.characters.latin_1%s
    --  interfaces%s
    --  system%s
    --  ada.io_exceptions%s
@@ -34,6 +36,8 @@ package ada_main is
    --  gnat%s
    --  interfaces.stm32%s
    --  interfaces.stm32.pwr%s
+   --  system.address_operations%s
+   --  system.address_operations%b
    --  system.bb%s
    --  system.bb.board_parameters%s
    --  system.bb.cpu_specific%s
@@ -84,6 +88,8 @@ package ada_main is
    --  ada.text_io%b
    --  system.address_image%s
    --  system.address_image%b
+   --  system.compare_array_unsigned_8%s
+   --  system.compare_array_unsigned_8%b
    --  system.traceback%s
    --  system.traceback%b
    --  ada.strings.utf_encoding%s
@@ -177,8 +183,20 @@ package ada_main is
    --  ada.real_time%b
    --  ada.real_time.delays%s
    --  ada.real_time.delays%b
+   --  system.bit_ops%s
+   --  system.bit_ops%b
+   --  ada.strings.maps%s
+   --  ada.strings.maps%b
+   --  ada.strings.search%s
+   --  ada.strings.search%b
+   --  ada.strings.fixed%s
+   --  ada.strings.fixed%b
+   --  ada.strings.unbounded%s
+   --  ada.strings.unbounded%b
    --  system.pool_global%s
    --  system.pool_global%b
+   --  system.relative_delays%s
+   --  system.relative_delays%b
    --  system.tasking.protected_objects%s
    --  system.tasking.protected_objects%b
    --  system.tasking.protected_objects.entries%s
@@ -307,6 +325,8 @@ package ada_main is
    --  stm32.ltdc%b
    --  framebuffer_ltdc%s
    --  framebuffer_ltdc%b
+   --  stm32.pwm%s
+   --  stm32.pwm%b
    --  stmpe811%s
    --  stmpe811%b
    --  framebuffer_ili9341%s
